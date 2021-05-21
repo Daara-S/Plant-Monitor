@@ -1,4 +1,4 @@
-# Plant-Monitor
+# Plant Monitor
 
 Example code for setting up the [Arduino Nano 33 BLE Sense](https://store.arduino.cc/arduino-nano-33-ble-sense) as a Environment Sensing peripheral.
 Given use case is for measuring temperature and humidity in a room for plants.
